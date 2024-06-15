@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "clj-kondo":   "latest",
+    "cljfmt":      "latest",
+    "clojure-lsp": "latest",
+    "clojure":     "latest"
+  }
+}
